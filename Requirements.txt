@@ -1,0 +1,25 @@
+Objective
+Create an application that allows users to make bank transactions (deposits and withdrawals) and print a bank statement to the terminal.
+
+Requirements
+Implement Deposits and Withdrawals
+
+Users should be able to deposit money into their account.
+Users should be able to withdraw money from their account.
+Ensure the account balance is updated correctly after each transaction.
+Account Statement
+
+Print a statement that includes:
+A heading row.
+Date of each transaction.
+Amount of each transaction.
+Balance after each transaction.
+Transactions should be displayed in reverse chronological order (most recent first).
+No User Interface Needed
+
+You don’t need to implement a graphical or command-line user interface.
+You can test the functionality by calling methods from the main method.
+In-Memory Data Storage
+
+Store all data in memory (use data structures like lists or arrays).
+No need for database integration.
